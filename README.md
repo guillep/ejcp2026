@@ -1,5 +1,9 @@
 # ejcp2026
 
+This repo contains the contents of the Compiler day on for the École des jeunes chercheuses et jeunes chercheurs en Sciences du Logiciel (EJCP) 2026, organized in Nantes.
+
+https://ejcp2026-scilog.ls2n.fr/
+
 ## Agenda
 
 - 9h-10h30 : Intro, compilation vs interprétation, le mythe des langages interprétés et compilés. Architectures modernes.
