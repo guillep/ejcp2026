@@ -6,13 +6,13 @@ https://ejcp2026-scilog.ls2n.fr/
 
 ## Agenda
 
-- 9h-10h30 : Intro, compilation vs interprétation, le mythe des langages interprétés et compilés. Architectures modernes.
+9h-10h30 : Theory — Introduction to compilation and language implementations.
 
-- 11h-12h30 : Atelier -- Code machine virtuelle et machine physique. Assembly vs bytecode. Machines à piles vs machines à registres.
+11h-12h30 : Lab — exploring generated code in different languages
 
-- 14h-15h30 :  Répresentations de code: AST, control flow graph, linear representations, forme SSA. Atelier et exemples interactifs.
+14h-15h30 : Theory — Representing code, Compiler testing and Fuzzing
 
-- 16h-17h30 : Fuzzing de compilateurs. Fuzzing aléatoire, grammar-based, mutation-based.
+16h-17h30 : Lab — Fuzzing a buggy parser
 
 ## Repo Organization
 
