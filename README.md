@@ -10,7 +10,7 @@ https://ejcp2026-scilog.ls2n.fr/
 
 11h-12h30 : Lab — exploring generated code in different languages
 
-14h-15h30 : Theory — Representing code, Compiler testing and Fuzzing
+14h-15h30 : Theory — Compiler testing and Fuzzing
 
 16h-17h30 : Lab — Fuzzing a buggy parser
 
